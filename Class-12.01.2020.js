@@ -1,4 +1,4 @@
-
+// print 1 to 10
 
 for(let i = 1; i <= 10; i++){
   console.log(i)
@@ -6,6 +6,7 @@ for(let i = 1; i <= 10; i++){
 
 
 
+// 1^2 + 2^2 + 3^2+....+n
 
 let sum = 0
 
@@ -17,10 +18,10 @@ console.log(sum)
 
 
 
-1^2 + 2^2 + 3^2+....+n
 
 
 
+// sum of 1 to 10
 
 let sum = 0
 
@@ -59,7 +60,7 @@ let z = Math.sqrt(s*(s-a)*(s-b)*(s-c))
 console.log(z)
 
 
-
+// Add to array
 let x = [1, 3, 5]
 
 let arr = [2, 4, 6, 8]

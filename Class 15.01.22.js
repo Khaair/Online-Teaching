@@ -16,3 +16,16 @@ function factorial(a){
   
   // 5*4*3*2*1
   
+  
+  
+  // Check a Number Positive or Negative
+  
+  function res(a){
+    
+    let x = (a < 0 ) ? "Negative" : "Positive"
+    
+    return x
+    
+  }
+  
+  console.log(res(190))
